@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Jadaun</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 <img align="right" alt="coding" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" widht="500px" height="300px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekdj07&label=Profile%20views&color=0e75b6&style=flat" alt="geekdj07" /> </p>
